@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhayanithiAIML
+- 👋 Hi, I’m @Dhayanithi.G
 - 👀 I’m interested in Computing,gathering knowledge about technologies and playing badmiton
 - 🌱 I’m currently learning B.Sc Artificial Intelligence & Machine Learning
 - 📫 How to reach me dhayashiro54@gmai.com,
